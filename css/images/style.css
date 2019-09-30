@@ -1,0 +1,104 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	margin:auto;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	width:800px;
+	background-color: #BDCFF9;
+}
+
+#top { background-color: #202031; }
+#centre { background-color: #202031; }
+#bas {
+background-color: #202031; 
+color:white;
+font-size:10px;
+font-style:italic;
+font-family:Arial, Geneva, Helvetica, sans-serif;
+}
+
+
+.nos_services {
+	color:#cdcfcd;
+	margin-top:15px;
+	margin-bottom:20px;
+	margin-left:55px;
+	width: 425px;
+	
+	font-family:Arial, Geneva, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+.nos_services img { float:right; margin-right:5px;}
+
+.mot_important {
+	font-weight: bold;
+	color:#FECD38;
+	text-decoration:none;
+} 
+
+.nos_solutions {
+	color:#cdcfcd;
+	margin-top:15px;
+	margin-bottom:20px;
+	margin-left:55px;
+	width: 700px;
+	
+	font-family:Arial, Geneva, Helvetica, sans-serif;
+	font-size:12px;
+}
+
+.nos_solutions h2 { font-size:16px;font-family:Arial, Geneva, Helvetica, sans-serif;	font-weight: bold;
+	color:#FECD38;}
+
+.commander {
+	color:#cdcfcd;
+	margin-top:15px;
+	margin-bottom:20px;
+	margin-left:56px;
+	width: 93%;
+}
+
+.entreprise {float:right;}
+
+label {
+display:block;
+width:100px;
+height:20px;
+float:left;
+font-family:Arial, Geneva, Helvetica, sans-serif;
+font-size:14px;
+color:#cdcfcd;
+font-weight:bold;
+margin-left:10px;
+}
+input {background-color:#0099FF;}
+
+
+.info { font-size:14px;font-family:Arial, Geneva, Helvetica, sans-serif;color:#FECD38;margin-right:10px;}
+
+
+
+.contact_getweb {border-right:1px solid white;}
+
+.contact_vide {border-right:1px solid white;}
+
+.hugomathien {padding-left:20px;}
+
+.guillaumebonnier {padding-left:20px;}
+
+
+.reussir_web {
+float:right;
+margin-left:3px;
+margin-top:10px;
+border:2px solid black;
+}
+.reussir_web2 {
+float:left;
+margin-right:30px;
+border:2px solid black;
+}
